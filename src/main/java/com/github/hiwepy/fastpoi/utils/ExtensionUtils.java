@@ -19,7 +19,7 @@ import java.io.File;
 
 import org.apache.commons.io.FilenameUtils;
 
-import net.jeebiz.fastxls.core.utils.Assert;
+import com.github.hiwepy.fastxls.core.utils.Assert;
 /**
  * 文档后缀判断方法
  */
